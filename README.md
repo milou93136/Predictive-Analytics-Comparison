@@ -1,2 +1,11 @@
 # Predictive-Analytics-Comparison - Analyse Prédictive ImmobilièreDescription du Projet
-Dans le cadre de ma 4ème année à l'Esaip, j'ai conçu ce projet pour démontrer ma capacité à mener un projet de Machine Learning de bout en bout. L'objectif est de prédire la valeur de biens immobiliers en optimisant l'erreur quadratique moyenne (RMSE).Points clés de la réalisation :Analyse Exploratoire (EDA) : Visualisation des corrélations et identification des features clés (Superficie, localisation, année de construction).Preprocessing Avancé : Traitement des données aberrantes, encodage des variables catégorielles (One-Hot Encoding) et normalisation.Conception & Tuning : Comparaison de performances entre un modèle robuste (Random Forest) et un modèle de boosting (Gradient Boosting).Optimisation : Gain de précision via la recherche des meilleurs hyperparamètres (GridSearch).Technologies Utilisées :Langage : PythonBibliothèques : Scikit-Learn, Pandas, Matplotlib, SeabornOutils : Jupyter Notebook / VS Code
+Dans le cadre de ma 4ème année à l'Esaip, j'ai conçu ce projet pour démontrer ma capacité à mener un projet de Machine Learning de bout en bout.
+
+L'objectif est de prédire la valeur de biens immobiliers en optimisant l'erreur quadratique moyenne (RMSE).
+
+Points clés de la réalisation :
+- Analyse Exploratoire (EDA) : Visualisation des corrélations et identification des features clés (Superficie, localisation, année de construction).
+- Preprocessing Avancé : Traitement des données aberrantes, encodage des variables catégorielles (One-Hot Encoding) et normalisation.
+- Conception & Tuning : Comparaison de performances entre un modèle robuste (Random Forest) et un modèle de boosting (Gradient Boosting).
+- Optimisation : Gain de précision via la recherche des meilleurs hyperparamètres (GridSearch).
+- Technologies Utilisées :Langage : PythonBibliothèques : Scikit-Learn, Pandas, Matplotlib, SeabornOutils : Jupyter Notebook / VS Code
